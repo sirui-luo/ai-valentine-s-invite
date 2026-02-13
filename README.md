@@ -91,15 +91,17 @@ Cursor was used to:
 ---
 
 ## 📁 Project Structure
+
+```bash
 valentines-invite/
 ├── components/
-│ ├── AskScreen.tsx
-│ ├── CreatorForm.tsx
-│ ├── EnvelopeReveal.tsx
-│ └── FloatingHearts.tsx
+│   ├── AskScreen.tsx
+│   ├── CreatorForm.tsx
+│   ├── EnvelopeReveal.tsx
+│   └── FloatingHearts.tsx
 │
 ├── public/
-│ └── romantic.mp3
+│   └── romantic.mp3
 │
 ├── App.tsx
 ├── index.tsx
@@ -107,6 +109,8 @@ valentines-invite/
 ├── vite.config.ts
 ├── package.json
 └── tsconfig.json
+```
+
 
 ---
 
@@ -127,10 +131,16 @@ Install dependencies:
 
 ```bash
 npm install
+```
 
 2. Start the development server
+
+```bash
 npm run dev
+```
 
 3. Open in browser
 
+```
 http://localhost:3000
+```s
