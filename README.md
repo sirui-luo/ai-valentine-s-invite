@@ -127,7 +127,7 @@ It will then be accessible at: http://localhost:3000/romantic.mp3
 
 ## 🚀 Run Locally
 
-Install dependencies:
+1. Install dependencies:
 
 ```bash
 npm install
