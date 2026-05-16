@@ -1,6 +1,6 @@
 # 💌 Valentine’s Day Interactive Invite
 
-https://github.com/sirui-luo/ai-valentine-s-invite/releases/download/v1.0/Valentines.Day.Video.mp4
+[https://github.com/sirui-luo/ai-valentine-s-invite/releases/download/v1.0/Valentines.Day.Video.mp4](https://github.com/sirui-luo/ai-valentine-s-invite/issues/1#issue-4460331987)
 
 A playful, interactive Valentine’s Day web app where:
 
