@@ -1,5 +1,7 @@
 # 💌 Valentine’s Day Interactive Invite
 
+https://github.com/sirui-luo/ai-valentine-s-invite/releases/download/v1.0/Valentines.Day.Video.mp4
+
 A playful, interactive Valentine’s Day web app where:
 
 - The sender creates a personalized invite
@@ -16,7 +18,7 @@ This project explores AI-augmented creativity in frontend development.
 
 ---
 
-## ✨ Features
+## Features
 
 - 📸 Multi-photo upload (preview + remove)
 - 💗 Envelope opening animation (slow romantic reveal)
@@ -27,7 +29,7 @@ This project explores AI-augmented creativity in frontend development.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - React
 - Vite
@@ -37,7 +39,7 @@ This project explores AI-augmented creativity in frontend development.
 
 ---
 
-## 🤖 AI-Assisted Development Workflow
+## AI-Assisted Development Workflow
 
 This project was built using a structured AI-assisted workflow combining:
 
